@@ -16,26 +16,21 @@
 데이터 수집 - Python
 
 <br>
-<br>
 
 데이터 저장 - HDFS
 
-<br>
 <br>
 
 데이터 처리 - Apache Spark
 
 <br>
-<br>
 
 데이터 분석 - Hive / Spark SQL
 
 <br>
-<br>
 
 시각화 - Matplotlib
 
-<br>
 <br>
 
 실행 환경 - HDP Sandbox
